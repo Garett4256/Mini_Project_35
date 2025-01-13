@@ -5,7 +5,7 @@
   |___________________________________|___________________|
   |                                   |                   |
   |         TANG JIN SHEN             |      23301943     |
-  |                                   |                   |
+  |      GARETT KHOO BOO ZHENG        |      23301528     |
   |                                   |                   |
   |                                   |                   | 
   |                                   |                   |
@@ -19,6 +19,8 @@
 #include "main_menu.hpp"
 #include "welcome.hpp"
 #include <iostream>
+
+#include "Booking_Seating.hpp"
 
 using namespace std;
 

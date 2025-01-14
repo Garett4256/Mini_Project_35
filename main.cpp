@@ -20,8 +20,6 @@
 #include "welcome.hpp"
 #include <iostream>
 
-#include "Booking_Seating.hpp"
-
 using namespace std;
 
 int main() {
